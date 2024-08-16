@@ -1,0 +1,1 @@
+Este es un portafolio de prueba diseñado para demostrar habilidades en desarrollo web y diseño de interfaces. Este proyecto no está relacionado con una persona real, sino que se utiliza como un ejemplo para ilustrar el uso de tecnologías y prácticas en la creación de portafolios.
